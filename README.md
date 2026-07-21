@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/gabrielotienoochola" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Gabrielbossy" height="30" width="40" /></a>
-<a href="https://fb.com/gabrielhence" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="japhes murithi" height="30" width="40" /></a>
+<a href="[https://fb.com/gabrielhence](https://www.facebook.com/people/Gabriel-Hence/pfbid02G44mAUbkJFnVqA9W6h3gPzhfXbvbwHWZxfyMg7JNVG7fKmSg6mCke1YAAJfNSooil/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="japhes murithi" height="30" width="40" /></a>
 <a href="https://instagram.com/hencebossy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="techie" height="30" width="40" /></a>
 </p>
 
@@ -27,7 +27,7 @@
 
 
 <p align="center">
-<a href="https://github.com/ayubsoft254">
+<a href="https://github.com/Gabrielbossy">
   <img height="181em" src="https://streak-stats.demolab.com/?user=Gabrielbossy&theme=dark"/>
   <img height="181em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Gabrielbossy&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="181em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Gabrielbossy&layout=compact&langs_count=8&theme=algolia"/>
