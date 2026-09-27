@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **personal portfolio**
 
-- 🌱 I’m currently learning **Django**
+- 💻 I build web applications with **Python and Django**
 
-- 💬 Ask me about **python, bootsrap, Css, HTML,**
+- 💬 Ask me about **Python, Django, Bootstrap, CSS, HTML**
 
 - 📫 How to reach me **gabrielotich@gmail.com**
 
